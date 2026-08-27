@@ -1,0 +1,20 @@
+# M DeGracia
+# M1LAB1
+# 8/20/26
+# CTI-110
+
+Hello, this is a file about Mikey aka me
+
+My name is Michaelangelo DeGracia, and I'm majoring in IT
+
+The other courses im currently in are:
+- CTI-120
+- NOS-110
+- HUM-110
+
+My 3 interests are:
+- Cooking
+- Gym
+- Learning new topics
+
+One thing I find insteresting about I.T is the never ending advancment of technology
