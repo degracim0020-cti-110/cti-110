@@ -4,9 +4,17 @@
 # P1HW1-Math
 # Math Processing 
 
-# Part 1 - Exponents
+# Part 1 - Exponents 
+print("----calculating exponents----")
+print("\n") # 2 newlines
+base = int(input("Enter integer as base value: "))
+exponent = int(input("Enter integer as exponent: "))
+result = base ** exponent # example, (3 ** 2) is 3 squared
+print(f"{base} to the {exponent} power is {result} !!")
 
 # Part 2 - Addition & Subtraction
+print("----Addition & Subtraction----")
+print("\n") # 2 newlines
 # 3 numbers, start, add_this, sub_this
 start = int(input("Enter the starting integer:"))
 #print("you typed", start)
