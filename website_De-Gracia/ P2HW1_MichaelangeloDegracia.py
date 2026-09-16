@@ -1,7 +1,7 @@
 # Michaelangelo De Gracia
 # 9/16/26
 # P2HW1
-# Nicely Formatted Travel Expenses 
+# Nicely Formated Travel Expenses 
 
 print("----Calculating your travel expenses----")
 print("\n") # 2 newlines
