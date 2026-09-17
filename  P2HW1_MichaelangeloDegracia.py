@@ -23,10 +23,10 @@ print() # That gives 2 newlines, so would print("\n")
 
 print("----Travel Expenses Results----")
 print("\n") # 2 new lines
-print("Location:", Travel_location)
-print("Budget:", start)
-print("Gas:", sub_this1)
-print("Accomodatons:", sub_this2)
-print("Food:", sub_this3)
+print("Location: ", Travel_location)
+print("Budget: $", start)
+print("Gas: $", sub_this1)
+print("Accomodatons: $", sub_this2)
+print("Food: $", sub_this3)
 
-print("Leftover Balance:", answer)
+print("Leftover Balance: $", answer)
