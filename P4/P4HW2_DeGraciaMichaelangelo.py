@@ -1,5 +1,6 @@
 # De Gracia
 # 10/11/2026
+#P4HW2
 # Salary Calculator with loops
 
 # Request employee info
@@ -11,7 +12,7 @@ regular_pay_total = 0
 gross_pay_total = 0
 employee_count = 0
 
-while name != 'done':
+while name != 'Done':
     #add employee count plus one
     employee_count += 1
     #ask for hours and rate
@@ -48,7 +49,7 @@ while name != 'done':
     print("----------------------------------------------------------")
     print(f'{hours:<15.2f}{rate:<12.2f}{overtime_pay:<15.2f}{regular_pay:<15.2f}{gross_pay:<15.2f}')
 
-    name = input("Enter employee's name or 'done' to finish: ")
+    name = input("Enter employee's name or 'Done' to finish: ")
 
 print("Total number of employees processed:", employee_count)
 print("Total amount paid for overtime: $", format(overtime_pay_total, '.2f'))
